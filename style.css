@@ -1,1 +1,21 @@
 * { box-sizing: border-box; } body {margin: 0;}#i21u{color:black;width:1920px;height:1080px;}
+* {
+	box-sizing:border-box;
+}
+body {
+	margin:0;
+}
+.gjs-heading {
+	margin:0;
+}
+.gjs-link {
+	vertical-align:top;
+	max-width:100%;
+	display:inline-block;
+	text-decoration:none;
+	color:inherit;
+}
+#if1gp {
+	color:#d983a6;
+	padding:10px;
+}
